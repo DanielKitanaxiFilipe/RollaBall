@@ -1,0 +1,10 @@
+O Roolebol e um jogo sem sond e musica (Trilha sonora) para 
+que o jogador posso selecionar o musica do seu 
+gosto e esfluir do Jogo !
+
+----------------------------------------------------------
+
+Obrigado por jogar o jogo Roolebol 
+
+O Roolebol faz parte do projecto MiniGames que esta a ser desenvolvido 
+por Daniel. mais informaçoes em breve...
